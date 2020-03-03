@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  7 10:08:15 2020
 
-@author: EI-LAP-7241
-"""
 
 
 import torch
