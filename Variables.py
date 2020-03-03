@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  7 09:28:44 2020
 
-@author: EI-LAP-7241
-"""
 
 
 train_path='./datasets/builder_train.csv'
