@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  7 09:27:08 2020
-
-@author: EI-LAP-7241
-"""
-
 
 import numpy as np
 import itertools
